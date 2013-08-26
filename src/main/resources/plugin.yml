@@ -1,0 +1,5 @@
+name: NoDeGodPlugin
+main: com.freitas.minecraft.plugins.NoDeGod
+version: 0.0.1-SNAPSHOT
+description: No DeGod Bob Plugin
+depend: [Essentials]
